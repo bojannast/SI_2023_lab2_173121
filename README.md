@@ -13,12 +13,12 @@ Ciklomatskata kompleksnost na grafot e 11.
 
 # Every Branch
 
-![branch1.png](../branch1.png)
-![branch2.png](../branch2.png)
+![branch1.png](branch1.png)
+![branch2.png](branch2.png)
 
 # Multiple Condition
 
-![multiple.png](../multiple.png)
+![multiple.png](multiple.png)
 
 ##
 Za sekoj od test primerite dodavam po eden unit test. <br />
